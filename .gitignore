@@ -1,0 +1,17 @@
+npm-debug.log
+.DS_Store
+.nsbuildinfo
+
+*.js.map
+*.metadata.json
+app/**/*.js
+stash/**/*.js
+npm-debug.log
+
+hooks/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
+

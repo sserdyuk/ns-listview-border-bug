@@ -1,0 +1,9 @@
+﻿Page.page .row .logo {
+    width: 70;
+    height: 70;
+    vertical-align: center;
+    horizontal-align: left;
+    border-radius: 20;
+}
+
+@import 'nativescript-theme-core/css/core.light.css';
